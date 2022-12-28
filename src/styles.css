@@ -301,7 +301,7 @@ main {
 .attribution { font-size: 0.7rem; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
-@media only screen and (max-width: 1440px) {
+@media only screen and (max-width: 960px) {
 
   main {
     background: linear-gradient(180deg, var(--soft-violet) 0%, var(--soft-blue) 100%);
