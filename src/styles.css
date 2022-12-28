@@ -281,6 +281,7 @@ main {
   color: var(--dark-grayish-blue);
   overflow: hidden;
   height: 0px;
+  width: 95%;
 }
 
 .active .question {
